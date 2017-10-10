@@ -1,0 +1,50 @@
+Applications Memory Usage (kB):
+Uptime: 1317812 Realtime: 1317796
+
+** MEMINFO in pid 16963 [com.qualcomm.ftcrobotcontroller] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3646     3000        0      428    18792    18671      120
+  Dalvik Heap    11598    11468        0      216    16390    13424     2966
+ Dalvik Other     1482     1480        0        0                           
+        Stack      344      344        0        0                           
+       Ashmem      280      144        0        0                           
+      Gfx dev     2024     2024        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap    10055      516     8288     1344                           
+    .apk mmap      361        0      180        0                           
+    .ttf mmap      137        0      108        0                           
+    .dex mmap     4574      100     4460        0                           
+    .oat mmap     2291        0      936        4                           
+    .art mmap     1299      900        8       44                           
+   Other mmap      313        8      280        0                           
+   EGL mtrack    20768    20768        0        0                           
+      Unknown      515      512        0       84                           
+        TOTAL    59692    41264    14264     2120    35182    32095     3086
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    12376
+         Native Heap:     3000
+                Code:    14588
+               Stack:      344
+            Graphics:    22792
+       Private Other:     2428
+              System:     4164
+ 
+               TOTAL:    59692      TOTAL SWAP (KB):     2120
+ 
+ Objects
+               Views:       25         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        2
+       Local Binders:       28        Proxy Binders:       27
+       Parcel memory:        8         Parcel count:       36
+    Death Recipients:        1      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

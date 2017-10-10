@@ -1,0 +1,26 @@
+## _Team 10841 Autonomous explanation_
+
+   Our autonomous will start out with the robot _**centered**_ on the tile separation line (on the
+first line from the corner vortex as we can be).
+##                                       _**Blue**_
+   For our blue autonomous, we start out by moving
+away form the wall and turning to face the white line leading to the first beacon. Then it moves
+forward until it is inline with the Center Vortex, it will then fire two particles in
+to it. Than it will travel onto the beacon. Once at the beacon, it will sense the correct button
+and press it.
+##                                        _**Red**_
+   The red autonomous starts out the same, but instead of launching balls, we will go
+straight to the beacons. Once we are done with the beacons, we back up until we are inline with the
+Center Vortex, then we launch two balls.
+
+## _A more in depth look at our Autonomous_
+
+## _**Blue**_
+
+   The robot starts out by turning 26 degrees to the right, than drives forward for 28 inches. Than
+   the robot stops, and launches two balls into the center vortex for 30 points. Then the robot moves
+   on for 17 inches until it starts looking for the line. Once it has found the line, it will drive
+   1.75 inches past the line than it will turn 64 degrees
+
+
+

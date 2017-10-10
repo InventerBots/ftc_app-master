@@ -1,0 +1,252 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 298MB min, 298MB avg, 298MB max
+    Free: 41MB min, 41MB avg, 41MB max
+    ZRam: 5.4MB min, 5.4MB avg, 5.4MB max
+    Kernel: 68MB min, 68MB avg, 68MB max
+    Native: 42MB min, 42MB avg, 42MB max
+
+Per-Package Stats:
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+      * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+               TOTAL: 38% (47MB-54MB-58MB/43MB-49MB-54MB over 7)
+                 Top: 38% (47MB-54MB-58MB/43MB-49MB-54MB over 7)
+          (Last Act): 1.5%
+            (Cached): 0.10%
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 5 / time 38%
+              Bound count 5 / time 38%
+          Executing count 5 / time 0.03%
+
+Summary:
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+           TOTAL: 38% (47MB-54MB-58MB/43MB-49MB-54MB over 7)
+             Top: 38% (47MB-54MB-58MB/43MB-49MB-54MB over 7)
+      (Last Act): 1.5%
+        (Cached): 0.10%
+
+Run time Stats:
+  SOff/Norm: +5s48ms
+  SOn /Norm: +22m17s179ms (running)
+      TOTAL: +22m22s227ms
+
+Memory usage:
+  Kernel : 68MB (8 samples)
+  Native : 42MB (8 samples)
+  Persist: 128MB (24 samples)
+  Top    : 70MB (87 samples)
+  ImpFg  : 34MB (83 samples)
+  ImpBg  : 9.3MB (26 samples)
+  Service: 12MB (80 samples)
+  Receivr: 2.5MB (76 samples)
+  Home   : 15MB (7 samples)
+  LastAct: 7.4MB (8 samples)
+  CchAct : 51KB (7 samples)
+  CchEmty: 81MB (103 samples)
+  Cached : 298MB (8 samples)
+  Free   : 41MB (8 samples)
+  Z-Ram  : 5.4MB (8 samples)
+  TOTAL  : 815MB
+  ServRst: 33KB (17 samples)
+
+          Start time: 2016-12-02 10:13:06
+  Total elapsed time: +22m36s237ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 8 samples:
+    Cached: 121MB min, 264MB avg, 322MB max
+    Free: 38MB min, 54MB avg, 78MB max
+    ZRam: 5.6MB min, 8.9MB avg, 14MB max
+    Kernel: 65MB min, 70MB avg, 73MB max
+    Native: 29MB min, 35MB avg, 41MB max
+  SOn /Norm: 9 samples:
+    Cached: 265MB min, 291MB avg, 311MB max
+    Free: 40MB min, 48MB avg, 72MB max
+    ZRam: 3.8MB min, 6.0MB avg, 15MB max
+    Kernel: 67MB min, 69MB avg, 72MB max
+    Native: 29MB min, 45MB avg, 56MB max
+
+Per-Package Stats:
+  * com.qualcomm.ftcrobotcontroller / u0a128 / v12:
+      * com.qualcomm.ftcrobotcontroller / u0a128 / v12:
+               TOTAL: 0.30% (45MB-46MB-48MB/41MB-43MB-44MB over 2)
+                 Top: 0.30% (45MB-46MB-48MB/41MB-43MB-44MB over 2)
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 1 / time 0.28%
+              Bound count 1 / time 0.28%
+          Executing count 1 / time 0.00%
+  * com.qualcomm.ftcrobotcontroller / u0a128 / v14:
+      * com.qualcomm.ftcrobotcontroller / u0a128 / v14:
+               TOTAL: 27% (5.8MB-56MB-65MB/3.9MB-51MB-60MB over 109)
+                 Top: 27% (5.8MB-56MB-65MB/3.9MB-51MB-60MB over 109)
+             Service: 0.01%
+          (Last Act): 0.02%
+            (Cached): 0.01%
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 37 / time 27%
+              Bound count 37 / time 27%
+          Executing count 41 / time 0.09%
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v12:
+      * com.qualcomm.ftcrobotcontroller / u0a129 / v12:
+               TOTAL: 8.2% (61MB-64MB-65MB/55MB-59MB-60MB over 30)
+                 Top: 8.2% (61MB-64MB-65MB/55MB-59MB-60MB over 30)
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 41 / time 35%
+              Bound count 41 / time 35%
+          Executing count 43 / time 0.02%
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+      * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+               TOTAL: 34% (26MB-58MB-65MB/23MB-53MB-61MB over 125)
+                 Top: 34% (26MB-58MB-65MB/23MB-53MB-61MB over 125)
+          (Last Act): 0.05%
+            (Cached): 0.12% (38MB-38MB-38MB/34MB-34MB-34MB over 1)
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 30 / time 33%
+              Bound count 30 / time 33%
+          Executing count 29 / time 0.06%
+
+Multi-Package Common Processes:
+  * com.qualcomm.ftcrobotcontroller / u0a128 (5 entries):
+        SOff/Norm/Top    : +51s306ms
+        SOn /Norm/Top    : +3h22m25s820ms
+                  Service: +2s994ms
+                  LastAct: +8s171ms
+                  CchEmty: +5s660ms
+                  TOTAL  : +3h23m33s951ms
+        PSS/USS (1 entries):
+          SOn /Norm/Top    : 111 samples 5.8MB 56MB 65MB / 3.9MB 51MB 60MB
+
+  * com.qualcomm.ftcrobotcontroller / u0a129 (6 entries):
+        SOff/Norm/Top    : +28m50s505ms
+        SOn /Norm/Top    : +7h58m1s216ms
+                  Service: +1s814ms
+                  LastAct: +3m0s870ms
+                  CchAct : +1m6s566ms
+                  CchEmty: +4s470ms
+                  TOTAL  : +8h31m5s441ms
+        PSS/USS (4 entries):
+          SOff/Norm/Top    : 6 samples 52MB 58MB 64MB / 46MB 53MB 59MB
+          SOn /Norm/Top    : 265 samples 24MB 59MB 66MB / 21MB 54MB 61MB
+                    LastAct: 1 samples 40MB 40MB 40MB / 35MB 35MB 35MB
+                    CchAct : 2 samples 38MB 40MB 43MB / 34MB 36MB 38MB
+
+Summary:
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+           TOTAL: 68% (24MB-59MB-66MB/21MB-54MB-61MB over 271)
+             Top: 68% (24MB-59MB-66MB/21MB-54MB-61MB over 271)
+      (Last Act): 0.41% (40MB-40MB-40MB/35MB-35MB-35MB over 1)
+        (Cached): 0.16% (38MB-40MB-43MB/34MB-36MB-38MB over 2)
+  * com.qualcomm.ftcrobotcontroller / u0a128 / v14:
+           TOTAL: 27% (5.8MB-56MB-65MB/3.9MB-51MB-60MB over 111)
+             Top: 27% (5.8MB-56MB-65MB/3.9MB-51MB-60MB over 111)
+         Service: 0.01%
+      (Last Act): 0.02%
+        (Cached): 0.01%
+
+Run time Stats:
+  SOff/Norm: +37m54s703ms
+  SOn /Norm: +11h44m56s491ms
+      TOTAL: +12h22m51s194ms
+
+Memory usage:
+  Kernel : 69MB (119 samples)
+  Native : 44MB (119 samples)
+  Persist: 125MB (390 samples)
+  Top    : 59MB (1215 samples)
+  ImpFg  : 65MB (1286 samples)
+  ImpBg  : 11MB (455 samples)
+  Service: 16MB (1846 samples)
+  Receivr: 314KB (2127 samples)
+  Home   : 31MB (240 samples)
+  LastAct: 384KB (178 samples)
+  CchAct : 62KB (2 samples)
+  CchEmty: 94MB (1327 samples)
+  Cached : 290MB (119 samples)
+  Free   : 48MB (119 samples)
+  Z-Ram  : 6.1MB (119 samples)
+  TOTAL  : 859MB
+  ServRst: 19KB (678 samples)
+
+          Start time: 2016-11-30 13:49:42
+  Total elapsed time: +12h25m20s260ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 1 samples:
+    Cached: 294MB min, 294MB avg, 294MB max
+    Free: 44MB min, 44MB avg, 44MB max
+    ZRam: 7.2MB min, 7.2MB avg, 7.2MB max
+    Kernel: 68MB min, 68MB avg, 68MB max
+    Native: 36MB min, 36MB avg, 36MB max
+  SOn /Norm: 4 samples:
+    Cached: 265MB min, 290MB avg, 303MB max
+    Free: 40MB min, 42MB avg, 48MB max
+    ZRam: 3.8MB min, 4.7MB avg, 5.4MB max
+    Kernel: 67MB min, 69MB avg, 70MB max
+    Native: 42MB min, 46MB avg, 51MB max
+
+Per-Package Stats:
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+      * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+               TOTAL: 89% (47MB-59MB-65MB/43MB-55MB-61MB over 75)
+                 Top: 89% (47MB-59MB-65MB/43MB-55MB-61MB over 75)
+          (Last Act): 0.24%
+            (Cached): 0.02%
+      * com.qualcomm.ftccommon.FtcRobotControllerService:
+        Process: com.qualcomm.ftcrobotcontroller
+            Running count 23 / time 88%
+              Bound count 23 / time 88%
+          Executing count 22 / time 0.02%
+
+Multi-Package Common Processes:
+  * com.qualcomm.ftcrobotcontroller / u0a129 (5 entries):
+        SOff/Norm/Top    : +5s684ms
+        SOn /Norm/Top    : +2h9m51s148ms
+                  LastAct: +20s747ms
+                  CchAct : +1s244ms
+                  CchEmty: +121ms
+                  TOTAL  : +2h10m18s944ms
+        PSS/USS (2 entries):
+          SOff/Norm/Top    : 1 samples 64MB 64MB 64MB / 59MB 59MB 59MB
+          SOn /Norm/Top    : 74 samples 47MB 59MB 65MB / 43MB 54MB 61MB
+
+Summary:
+  * com.qualcomm.ftcrobotcontroller / u0a129 / v14:
+           TOTAL: 89% (47MB-59MB-65MB/43MB-55MB-61MB over 75)
+             Top: 89% (47MB-59MB-65MB/43MB-55MB-61MB over 75)
+      (Last Act): 0.24%
+        (Cached): 0.02%
+
+Run time Stats:
+  SOff/Norm: +49s547ms
+  SOn /Norm: +2h25m16s502ms
+      TOTAL: +2h26m6s49ms
+
+Memory usage:
+  Kernel : 69MB (39 samples)
+  Native : 46MB (39 samples)
+  Persist: 126MB (78 samples)
+  Top    : 62MB (254 samples)
+  ImpFg  : 62MB (273 samples)
+  ImpBg  : 20MB (90 samples)
+  Service: 18MB (395 samples)
+  Receivr: 655KB (453 samples)
+  Home   : 28MB (44 samples)
+  LastAct: 1.1MB (76 samples)
+  CchAct : 8.6KB (75 samples)
+  CchEmty: 91MB (438 samples)
+  Cached : 290MB (39 samples)
+  Free   : 42MB (39 samples)
+  Z-Ram  : 4.7MB (39 samples)
+  TOTAL  : 859MB
+  ServRst: 18KB (163 samples)
+
+          Start time: 2016-12-01 15:31:00
+  Total elapsed time: +2h27m2s348ms (partial) libart.so
